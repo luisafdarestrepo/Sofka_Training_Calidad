@@ -24,7 +24,7 @@ seguimiento con no menos de 15 bultos para realizar la prueba del algoritmo.
 
 def main():
     nombre_datos = 'basededatos.txt' #Nombre de la base de datos que contiene los bultos a ingresar     
-    precio_dolar = 3669.85 #Precio del dolar el jueves 9 septiembre
+    precio_dolar = 3669.85 #Precio del dolar el jueves 3 septiembre
     fichero = open(nombre_datos, "r") #se abre la base de datos y se guarda en el fichero
     capacidad = 18000 #Capacidad de carga del avión
     limite_kg_bulto = 500 #límite de kilogramos por bulto
