@@ -1,0 +1,3 @@
+Para ejecutar: ./Ejercicio2.py este código utilza un archivo llamado "basededatos.txt" en el cual están listados los pesos de los bultos a ingresar en el avión
+La salida: número de bultos aceptados, peso del bulto más pesado, peso del bulto más liviano, promedio del peso de los bultos, ingreso en pesos y en dólares por concepto de carga
+también muestra uunos warnings cuando no se aceptan los bultos, se muestra su posicion en la lista y su peso.
