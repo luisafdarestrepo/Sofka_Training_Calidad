@@ -1,0 +1,3 @@
+Al ejecutar el ./Ejercicio1.py al usuario se le pedirá ingresar los la distancia de su destino en kilómetros (en números) seguido de la cantidad de número de días que
+durará su viaje, luego de esto el programa le dirá el costo del pasaje y si el número de días y la distancia en kilómetros superan 7 y 18000 respectivamente, se le
+hace un descuento el 30%
